@@ -1,15 +1,14 @@
 <h1 align="center">Hola 👋, Me llamo Omar Bautista</h1>
-<h3 align="center">Un estudiante apasinado a la programacion y las nuevas tecnologias</h3>
+<h3 align="center">Un estudiante apasionado a la programacion y las nuevas tecnologias</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarbautista-dev&label=Profile%20views&color=0e75b6&style=flat" alt="omarbautista-dev" /> </p>
 
-- 🔭 Actualme estoy trabajando en un proyecto innovador **OmniTrack**
+- 🔭 Actualmente estoy trabajando en un proyecto innovador **OmniTrack**
 
 - 🌱 Actualmente estoy aprendiendo **Flutter,Dart**
 
 - 📫 Como contactarme **omardejesusb59@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
